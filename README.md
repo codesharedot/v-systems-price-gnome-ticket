@@ -1,5 +1,8 @@
-# v-systems price gnome ticket 
+# v-systems gnome price ticker
 
-Gnome 3 desktop ticker for v-systems price with Python and argos. Rename to v-systems.1r.60s.py and put in ~/.config/argos
+Get v-systems price in Python [https://pythonbasics.org](https://pythonbasics.org).
+See [https://codesharedot.github.io/v-systems-price-gnome-ticket/](https://codesharedot.github.io/v-systems-price-gnome-ticket/)
 
-https://pythonbasics.org
+v-systems price ticker for Gnome desktop. Gets the price with Python and argos.
+
+Rename to v-systems.1r60s.py and put in ~/.config/argos
